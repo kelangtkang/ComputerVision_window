@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/ComputerVision.vector.svg</file>
+        <file>icon/ComputerVision_64x64.png</file>
+        <file>icon/GhostWhite_1000x1000.svg</file>
+        <file>icon/GhostBlack_1000x1000.svg</file>
+        <file>icon/GhostWhite_64x64.png</file>
+        <file>icon/GhostBlack_64x64.png</file>
+    </qresource>
+</RCC>
